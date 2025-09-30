@@ -1,0 +1,100 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f6f9f4; /* tom pastel claro */
+            color: #2e2e2e;
+        }
+
+        header {
+            background: #FFF; /* verde natureza */            
+            padding: 15px;
+            text-align: center;
+            box-shadow: 0px 10px 35px #666666;
+            border-bottom: 3px solid  #4f8a65;
+        }
+
+        header h1{
+            color: #6b4226;
+        }
+
+        header h2{
+            color: #4f8a65;
+        }
+
+        header img {
+            max-width: 120px;
+            display: block;
+            margin: 0 auto 10px auto;
+        }
+
+        
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .card {
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0px 2px 6px rgba(0,0,0,0.2);
+            padding: 15px;
+            transition: transform 0.2s;
+            text-align: center !important;
+        }
+
+        .card:hover {
+            transform: scale(1.03);
+        }
+
+        .card img {
+           
+            border-radius: 8px;
+            max-height: 150px;
+            object-fit: cover;
+        }
+          h1 {
+            color: darkblue;
+        }
+
+        h2 {
+            color: #6b4226;
+        }
+
+        h3 {
+            color: #6b4226; /* marrom terroso */
+        }
+
+        footer {
+            background: #4f8a65;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+            border-top: #6b4226 3px solid;
+        }
+        a.a1:link{
+            text-decoration:none;
+        }
+        a.a1:hover{
+            text-decoration:none;
+        }
+        @font-face {
+    font-family: amsi;
+    src: url(../fonts/AmsiProNormal-Light.ttf);
+}
+
+.nav-link, .dropdown-item{
+    font-family: amsi;
+}
+*{
+    font-family: amsi;
+}
