@@ -15,7 +15,7 @@ O **Educatech** é uma iniciativa educacional e tecnológica realizada em **Guar
 ## 👩‍🎓 Quem pode participar?
 - Estudantes do **Ensino Fundamental II** e **Ensino Médio**.  
 - Projetos podem ser **individuais ou em equipe**.  
-- Cada edição reúne **milhares de alunos** da região de Guarapuava.  
+- Cada edição reúne **vários alunos** da região de Guarapuava.  
 
 ---
 
