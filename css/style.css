@@ -90,14 +90,23 @@
         a.a1:hover{
             text-decoration:none;
         }
+        
         @font-face {
     font-family: amsi;
     src: url(../fonts/AmsiProNormal-Light.ttf);
 }
 
+
 .nav-link, .dropdown-item{
     font-family: amsi;
 }
+
 *{
     font-family: amsi;
 }
+
+
+ 
+
+ 
+  
